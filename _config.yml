@@ -19,3 +19,8 @@ exclude:
   - "bower_components"
   - "bower.json"
   - "src"
+  - "README.md"
+  - "LICENSE"
+  - "Gemfile*"
+  - "Gruntfile*"
+  - "CNAME"
