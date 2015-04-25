@@ -1,0 +1,4 @@
+[submodule "images"]
+	path = images
+	url = git@github.com:mitradstuttgart/images.git
+	branch = master
